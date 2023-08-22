@@ -1,6 +1,6 @@
 # Catering_System_Template
 
-This is a Template with both backend and Front end written using PHP.... feel free to  customize on your own
+This is a Catering System Template with both backend and Front end written using PHP.... feel free to  customize on your own
 
 
 
